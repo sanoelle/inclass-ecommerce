@@ -6,7 +6,7 @@
 .btn:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: #793284;
+	background-color: #CCC;
 	background-image: linear-gradient(to bottom, #793284, #571062);
 	border-radius: 6px;
 	box-shadow: 1px 1px 4px rgba (0,0,0,0.5);
